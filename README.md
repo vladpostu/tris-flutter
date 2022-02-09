@@ -1,7 +1,8 @@
 # tris-flutter
 
 ## Disclamer
-This is a school project.
+**This is a school project.**
+The core and the README are done based on the delivery requirements 
 
 ## Getting started
 It aims to recreate the famous Tris game with flutter. 
@@ -9,12 +10,10 @@ It aims to recreate the famous Tris game with flutter.
 
 It has been divided into two classes: 
 
-
     -main.dart: the main class containing the startpage 
     -Tris.dart: the class containing the game and all its mechanisms 
 
 Initially it is projected in a startpage containing two buttons:
-
 
     -PLAY vs FRIEND: allows you to play against a friend
     -PLAY vs AI: allows you to play against a simple artificial intelligence
