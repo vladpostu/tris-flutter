@@ -1,5 +1,8 @@
 # tris-flutter
 
+## Disclamer
+This is a school project.
+
 ## Getting started
 It aims to recreate the famous Tris game with flutter. 
 
@@ -35,7 +38,4 @@ The ai of the project is a simple artificial intelligence that detecting the cli
 ## Conclusions
 The project allows you to play either against a friend or against an ai at the game of tic-tac-toe.
 
-## Disclamer
-
-This is a school project.
 
